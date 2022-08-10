@@ -1,0 +1,44 @@
+{
+    "roles": [
+        {
+            "id": 1,
+            "name": "IR"
+        },
+        {
+            "id": 2,
+            "name": "HC"
+        },
+        {
+            "id": 3,
+            "name": "Sustainability"
+        },
+        {
+            "id": 4,
+            "name": "QHSE"
+        },
+        {
+            "id": 5,
+            "name": "Finance"
+        },
+        {
+            "id": 6,
+            "name": "SCP"
+        },
+        {
+            "id": 7,
+            "name": "SC Distribution"
+        },
+        {
+            "id": 8,
+            "name": "SC Support & Service"
+        },
+        {
+            "id": 9,
+            "name": "SC Manufacturing"
+        },
+        {
+            "id": 10,
+            "name": "IR Report"
+        }
+    ]
+}
