@@ -1,0 +1,26 @@
+{
+    "disclosure":[
+      {
+        "id":5,
+        "name":"Finance",
+        "data": [
+          {
+            "code": "201-1",
+            "name": "Nilai ekonomi langsung yang dihasilkan dan didistribusikan"
+          },
+          {
+            "code": "201-2",
+            "name": "Implikasi finansial serta risiko dan/atau peluang lain akibat dari per..."
+          },
+          {
+            "code": "C01-1",
+            "name": "Implikasi finansial serta risiko dan/atau peluang lain akibat dari per..."
+          },
+          {
+            "code": "C01-2",
+            "name": "Implikasi finansial serta risiko dan/atau peluang lain akibat dari per..."
+          }
+        ]
+      }  
+    ]
+}
