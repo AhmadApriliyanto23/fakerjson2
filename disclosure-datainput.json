@@ -84,6 +84,18 @@
           "code": "102-45",
           "name": "Entitas yang termasuk dalam laporan keuangan dikonsolidasi"
         }
+      ],
+      "topic":[
+        {
+          "code": "102",
+          "name": "Nama organisasi"
+        }
+      ],
+      "category":[
+        {
+          "code": "100",
+          "name": "Nama organisasi"
+        }
       ]
     },
     {
