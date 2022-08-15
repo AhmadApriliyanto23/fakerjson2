@@ -83,18 +83,38 @@
         {
           "code": "102-45",
           "name": "Entitas yang termasuk dalam laporan keuangan dikonsolidasi"
+        },
+        {
+          "code": "404-01",
+          "name": "Rata-rata jam pelatihan per tahun per karyawan"
+        },
+        {
+          "code": "404-02",
+          "name": "Program untuk meningkatkan keterampilan karyawan dan program bantuan"
+        },
+        {
+          "code": "404-03",
+          "name": "Persentase karyawan yang menerima tinjauan rutin terhadap"
         }
       ],
       "topic":[
         {
           "code": "102",
           "name": "Pengungkapan Umum"
+        },
+        {
+          "code": "404",
+          "name": "Pelatihan dan Pendidikan"
         }
       ],
       "category":[
         {
           "code": "100",
           "name": "General"
+        },
+        {
+          "code": "400",
+          "name": "Social"
         }
       ]
     },
@@ -1134,56 +1154,76 @@
           "name": "Nilai, prinsip, standar, dan norma perilaku"
         },
         {
-            "code": "102-26",
-            "name": "Peran badan tata kelola tertinggi dalam menetapkan tujuan, nilai-nil..."
-          },
-          {
-            "code": "102-27",
-            "name": "Pengetahuan kolektif badan tata kelola tertinggi"
-          },
-          {
-            "code": "102-28",
-            "name": "Mengevaluasi kinerja badan tata kelola tertinggi"
-          },
+          "code": "102-26",
+          "name": "Peran badan tata kelola tertinggi dalam menetapkan tujuan, nilai-nil..."
+        },
         {
-            "code": "102-30",
-            "name": "Keefektifan proses manajemen risiko"
-          },
+          "code": "102-27",
+          "name": "Pengetahuan kolektif badan tata kelola tertinggi"
+        },
         {
-            "code": "102-40",
-            "name": "Daftar kelompok pemangku kepentingan"
-          },
-    {
-            "code": "102-41",
-            "name": "Perjanjian perundingan kolektif"
-          },
-    {
-            "code": "102-42",
-            "name": "Mengidentifikasi dan memilih pemangku kepentingan"
-          },
-    {
-            "code": "102-43",
-            "name": "Pendekatan untuk keterlibatan pemangku kepentingan"
-          },
-    {
-            "code": "102-44",
-            "name": "Topik utama dan hal-hal yang diajukan"
-          },
-    {
-            "code": "102-45",
-            "name": "Entitas yang termasuk dalam laporan keuangan dikonsolidasi"
-          }
+          "code": "102-28",
+          "name": "Mengevaluasi kinerja badan tata kelola tertinggi"
+        },
+        {
+          "code": "102-30",
+          "name": "Keefektifan proses manajemen risiko"
+        },
+        {
+          "code": "102-40",
+          "name": "Daftar kelompok pemangku kepentingan"
+        },
+        {
+          "code": "102-41",
+          "name": "Perjanjian perundingan kolektif"
+        },
+        {
+          "code": "102-42",
+          "name": "Mengidentifikasi dan memilih pemangku kepentingan"
+        },
+        {
+          "code": "102-43",
+          "name": "Pendekatan untuk keterlibatan pemangku kepentingan"
+        },
+        {
+          "code": "102-44",
+          "name": "Topik utama dan hal-hal yang diajukan"
+        },
+        {
+          "code": "102-45",
+          "name": "Entitas yang termasuk dalam laporan keuangan dikonsolidasi"
+        },
+        {
+          "code": "404-01",
+          "name": "Rata-rata jam pelatihan per tahun per karyawan"
+        },
+        {
+          "code": "404-02",
+          "name": "Program untuk meningkatkan keterampilan karyawan dan program bantuan"
+        },
+        {
+          "code": "404-03",
+          "name": "Persentase karyawan yang menerima tinjauan rutin terhadap"
+        }
       ],
       "topic":[
         {
             "code": "102",
             "name": "Pengungkapan Umum"
+        },
+        {
+          "code": "404",
+          "name": "Pelatihan dan Pendidikan"
         }
       ],
       "category":[
         {
             "code": "100",
             "name": "General"
+        },
+        {
+          "code": "400",
+          "name": "Social"
         }
       ]
     },
@@ -1504,18 +1544,38 @@
         {
           "code": "102-45",
           "name": "Entitas yang termasuk dalam laporan keuangan dikonsolidasi"
+        },
+        {
+          "code": "404-01",
+          "name": "Rata-rata jam pelatihan per tahun per karyawan"
+        },
+        {
+          "code": "404-02",
+          "name": "Program untuk meningkatkan keterampilan karyawan dan program bantuan"
+        },
+        {
+          "code": "404-03",
+          "name": "Persentase karyawan yang menerima tinjauan rutin terhadap"
         }
       ],
       "topic":[
         {
           "code": "102",
           "name": "Pengungkapan Umum"
+        },
+        {
+          "code": "404",
+          "name": "Pelatihan dan Pendidikan"
         }
       ],
       "category":[
         {
           "code": "100",
           "name": "General"
+        },
+        {
+          "code": "400",
+          "name": "Social"
         }
       ]
     },
