@@ -84,6 +84,18 @@
             "code": "| 102-45",
             "name": "Entitas yang termasuk dalam laporan keuangan dikonsolidasi"
           }
+        ],
+        "topic":[
+          {
+            "code": "| 102",
+            "name": "Pengungkapan Umum"
+          }
+        ],
+        "category":[
+          {
+            "code": "| 100",
+            "name": "General"
+          }
         ]
       },
       {
@@ -129,6 +141,38 @@
           {
             "code": "| 404-03",
             "name": "Persentase karyawan yang menerima tinjauan rutin terhadap \n kinerja da..."
+          }
+        ],
+        "topic":[
+          {
+            "code": "| 102",
+            "name": "Pengungkapan Umum"
+          },
+          {
+            "code": "| 201",
+            "name": "Kinerja Ekonomi"
+          },
+          {
+            "code": "| 401",
+            "name": "Kepegawaian"
+          },
+          {
+            "code": "| 404",
+            "name": "Pelatihan dan Pendidikan"
+          }
+        ],
+        "category":[
+          {
+            "code": "| 100",
+            "name": "General"
+          },
+          {
+            "code": "| 200",
+            "name": "Ekonomi"
+          },
+          {
+            "code": "| 400",
+            "name": "Sosial"
           }
         ]
       },
@@ -283,6 +327,50 @@
           {
             "code": "| 412-02",
             "name": "Pelatihan karyawan mengenai kebijakan atau prosedur hak asasi manusia"
+          }
+        ],
+        "topic":[
+          {
+            "code": "| 102",
+            "name": "Pengungkapan Umum"
+          },
+          {
+            "code": "| 103",
+            "name": "Pendekatan Manajemen"
+          },
+          {
+            "code": "| 204",
+            "name": "Praktik Pengadaan"
+          },
+           {
+            "code": "| 205",
+            "name": "Anti Korupsi"
+          },
+           {
+            "code": "| 206",
+            "name": "Perilaku Antipersaingani"
+          },
+          {
+            "code": "| 402",
+            "name": "Hubungan Tenaga Kerja/Manajemen"
+          },
+          {
+            "code": "| 412",
+            "name": "Penilaian Hak Asasi Manusia"
+          }
+        ],
+        "category":[
+          {
+            "code": "| 100",
+            "name": "General"
+          },
+          {
+            "code": "| 200",
+            "name": "Ekonomi"
+          },
+          {
+            "code": "| 400",
+            "name": "Sosial"
           }
         ]
       },
@@ -458,6 +546,38 @@
             "code": "| 403-10",
             "name": "Penyakit akibat kerja"
           }
+        ],
+        "topic":[
+          {
+            "code": "| 302",
+            "name": "Energi"
+          },
+          {
+            "code": "| 303",
+            "name": "Air & Efluen"
+          },
+          {
+            "code": "| 305",
+            "name": "Emisi"
+          },
+           {
+            "code": "| 306",
+            "name": "Limbah"
+          },
+          {
+            "code": "| 403",
+            "name": "Keselamatan dan Kesehatan Kerja"
+          }
+        ],
+        "category":[
+          {
+            "code": "| 300",
+            "name": "Lingkungan"
+          },
+          {
+            "code": "| 400",
+            "name": "Sosial"
+          }
         ]
       },
       {
@@ -476,7 +596,19 @@
             "code": "| 201-04",
             "name": "Bantuan finansial yang diterima dari pemerintah"
           }
-        ]
+        ],
+        "topic":[
+        {
+          "code": "| 201",
+          "name": "Kinerja Ekonomi"
+        }
+      ],
+      "category":[
+        {
+          "code": "| 200",
+          "name": "Ekonomi"
+        }
+      ]
       },
       {
         "id":6,
@@ -498,6 +630,26 @@
             "code": "| 204-01b",
             "name": "Proporsi pengeluaran untuk pemasok lokal"
           }
+        ],
+        "topic":[
+          {
+            "code": "| 102",
+            "name": "Pengungkapan Umum"
+          },
+          {
+            "code": "| 204",
+            "name": "Praktik Pengadaan"
+          }
+        ],
+        "category":[
+          {
+            "code": "| 100",
+            "name": "General"
+          },
+          {
+            "code": "| 200",
+            "name": "Ekonomi"
+          }
         ]
       },
       
@@ -512,6 +664,18 @@
           {
             "code": "| 102-08b",
             "name": "Informasi mengenai karyawan dan pekerja lainnya"
+          }
+        ],
+        "topic":[
+          {
+            "code": "| 102",
+            "name": "Pengungkapan Umum"
+          }
+        ],
+        "category":[
+          {
+            "code": "| 100",
+            "name": "General"
           }
         ]
       },
@@ -694,6 +858,62 @@
           {
             "code": "| 404-02",
             "name": "Program untuk meningkatkan keterampilan karyawan dan program bantuan p..."
+          }
+        ],
+        "topic":[
+          {
+            "code": "| 102",
+            "name": "Pengungkapan Umum"
+          },
+           {
+            "code": "| 201",
+            "name": "Kinerja Ekonomi"
+          },
+           {
+            "code": "| 204",
+            "name": "Praktik Pengadaan"
+          },
+          {
+            "code": "| 302",
+            "name": "Energi"
+          },
+          {
+            "code": "| 305",
+            "name": "Emisi"
+          },
+          {
+            "code": "| 306",
+            "name": "Limbah"
+          },
+          {
+            "code": "| 401",
+            "name": "Kepegawaian"
+          },
+          {
+              "code": "| 403",
+              "name": "Keselamatan dan Kesehatan Kerja"
+          },
+          {
+              "code": "| 404",
+              "name": "Pelatihan dan Pendidikan"
+          }
+        ],
+        "category":[
+          {
+            "code": "| 100",
+            "name": "General"
+          },
+          {
+            "code": "| 200",
+            "name": "Ekonomi"
+          },
+          {
+            "code": "| 300",
+            "name": "Lingkungan"
+          },
+           {
+            "code": "| 400",
+            "name": "Social"
           }
         ]
       },
@@ -909,7 +1129,67 @@
             "code": "| 404-02",
             "name": "Program untuk meningkatkan keterampilan karyawan dan program bantuan p..."
           }
-        ]
+        ],
+         "topic":[
+        {
+            "code": "| 102",
+            "name": "Pengungkapan Umum"
+        },
+        {
+            "code": "| 201",
+            "name": "Kinerja Ekonomi"
+        },
+        {
+            "code": "| 204",
+            "name": "Praktik Pengadaan"
+        },
+        {
+            "code": "| 302",
+            "name": "Energi"
+        },
+        {
+            "code": "| 303",
+            "name": "Air & Efluen"
+        },
+        {
+            "code": "| 305",
+            "name": "Emisi"
+        },
+        {
+            "code": "| 306",
+            "name": "Limbah"
+        },
+        {
+            "code": "| 401",
+            "name": "Kepegawaian"
+        },
+        {
+            "code": "| 403",
+            "name": "Keselamatan dan Kesehatan Kerja"
+        },
+        {
+            "code": "| 404",
+            "name": "Pelatihan dan Pendidikan"
+        }
+      ],
+      "category":[
+        {
+            "code": "| 100",
+            "name": "General"
+        },
+        {
+            "code": "| 200",
+            "name": "Ekonomi"
+        },
+        {
+            "code": "| 300",
+            "name": "Lingkungan"
+        },
+        {
+            "code": "| 400",
+            "name": "Social"
+        }
+      ]
       },
       {
         "id":10,
@@ -970,6 +1250,18 @@
           {
             "code": "| 102-16",
             "name": "Nilai, prinsip, standar, dan norma perilaku"
+          }
+        ],
+        "topic":[
+          {
+              "code": "| 102",
+              "name": "Pengungkapan Umum"
+          }
+        ],
+        "category":[
+          {
+              "code": "| 100",
+              "name": "General"
           }
         ]
       }
