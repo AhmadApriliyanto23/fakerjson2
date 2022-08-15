@@ -39,6 +39,14 @@
         {
             "id": 10,
             "name": "IR Report"
-        }
+        },
+        {
+            "id": 11,
+            "name": "Sustainability + HC"
+        },
+        {
+            "id": 12,
+            "name": "IR + IR Report"
+        },
     ]
 }
