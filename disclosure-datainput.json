@@ -567,7 +567,7 @@
         {
           "code": "403",
           "name": "Keselamatan dan Kesehatan Kerja"
-        },
+        }
       ],
       "category":[
         {
@@ -576,7 +576,7 @@
         },
         {
           "code": "400",
-          "name": "	Sosial"
+          "name": "Sosial"
         }
       ]
     },
@@ -601,7 +601,7 @@
         {
           "code": "201",
           "name": "Kinerja Ekonomi"
-        },
+        }
       ],
       "category":[
         {
