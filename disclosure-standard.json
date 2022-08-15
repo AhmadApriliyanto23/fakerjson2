@@ -1126,6 +1126,18 @@
           {
             "code": "| 102-16",
             "name": "Nilai, prinsip, standar, dan norma perilaku"
+          },
+          {
+            "code": "| 102-26",
+            "name": "Peran badan tata kelola tertinggi dalam menetapkan tujuan, nilai-nil..."
+          },
+          {
+            "code": "| 102-27",
+            "name": "Pengetahuan kolektif badan tata kelola tertinggi"
+          },
+          {
+            "code": "| 102-28",
+            "name": "Mengevaluasi kinerja badan tata kelola tertinggi"
           }
         ],
         "topic":[
