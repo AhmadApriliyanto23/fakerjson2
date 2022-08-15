@@ -1628,6 +1628,844 @@
           "name": "General"
         }
       ]
+    },
+    {
+      "id":13,
+      "name":"Master",
+      "data":[
+        {
+          "code": "306-03b",
+          "name": "Timbulan limbah"
+          },
+          {
+          "code": "305-06b",
+          "name": "Emisi zat perusak ozon (ODS)"
+          },
+          {
+          "code": "305-05b",
+          "name": "Pengurangan emisi GRK"
+          },
+          {
+          "code": "305-04b",
+          "name": "Intensitas emisi GRK"
+          },
+          {
+          "code": "305-02b",
+          "name": "Emisi energi GRK (Cakupan 2) tidak langsung"
+          },
+          {
+          "code": "305-01b",
+          "name": "Emisi GRK (Cakupan 1) langsung"
+          },
+          {
+          "code": "303-05b",
+          "name": "Konsumsi air"
+          },
+          {
+          "code": "303-04b",
+          "name": "Pembuangan air"
+          },
+          {
+          "code": "303-03b",
+          "name": "Pengambilan air"
+          },
+          {
+          "code": "302-05b",
+          "name": "Pengurangan pada energi yang dibutuhkan untuk produk dan jasa"
+          },
+          {
+          "code": "302-04b",
+          "name": "Pengurangan konsumsi energi"
+          },
+          {
+          "code": "302-03b",
+          "name": "Intensitas energi"
+          },
+          {
+          "code": "302-02b",
+          "name": "Konsumsi energi di luar organisasi"
+          },
+          {
+          "code": "302-01b",
+          "name": "Konsumsi energi dalam organisasi"
+          },
+          {
+          "code": "403-08b",
+          "name": "Pekerja yang tercakup dalam sistem manajemen keselamatan dan kesehatan kerja"
+          },
+          {
+          "code": "305-07b",
+          "name": "Nitrogen oksida (NOx), sulfur oksida (SOx), dan emisi udara \r\nsignifikan lainnya"
+          },
+          {
+          "code": "102-08b",
+          "name": "Informasi mengenai karyawan dan pekerja lainnya"
+          },
+          {
+          "code": "204-01b",
+          "name": "Proporsi pengeluaran untuk pemasok lokal"
+          },
+          {
+          "code": "419-01",
+          "name": "Ketidakpatuhan terhadap undang-undang dan peraturan di bidang sosial dan ekonomi"
+          },
+          {
+          "code": "418-01",
+          "name": "Pengaduan substansial mengenai pelanggaran terhadap privasi pelanggan dan hilangnya data pelanggan"
+          },
+          {
+          "code": "417-03",
+          "name": "Insiden ketidakpatuhan terkait komunikasi pemasaran"
+          },
+          {
+          "code": "417-02",
+          "name": "Insiden ketidakpatuhan terkait informasi dan pelabelan \r\nproduk dan jasa"
+          },
+          {
+          "code": "417-01",
+          "name": "Persyaratan untuk pelabelan dan informasi produk dan jasa"
+          },
+          {
+          "code": "416-02",
+          "name": "Insiden ketidakpatuhan sehubungan dengan dampak kesehatan dan keselamatan dari produk dan jasa"
+          },
+          {
+          "code": "416-01",
+          "name": "Penilaian dampak kesehatan dan keselamatan dari berbagai kategori produk dan jasa"
+          },
+          {
+          "code": "415-01",
+          "name": "Kontribusi politik"
+          },
+          {
+          "code": "414-02",
+          "name": "Dampak sosial negatif dalam rantai pasokan dan tindakan yang \r\ntelah diambil"
+          },
+          {
+          "code": "414-01",
+          "name": "Seleksi pemasok baru dengan menggunakan kriteria sosial"
+          },
+          {
+          "code": "413-02",
+          "name": "Operasi yang secara aktual dan yang berpotensi memiliki \r\ndampak negatif signifikan terhadap masyarakat lokal"
+          },
+          {
+          "code": "413-01",
+          "name": "Operasi dengan keterlibatan masyarakat lokal, penilaian dampak, dan program pengembangan"
+          },
+          {
+          "code": "412-03",
+          "name": "Perjanjian dan kontrak investasi signifikan yang memasukkan klausul\u0002klausul hak asasi manusia atau yang telah melalui penyaringan hak asasi manusia"
+          },
+          {
+          "code": "412-02",
+          "name": "Pelatihan karyawan mengenai kebijakan atau prosedur hak asasi manusia"
+          },
+          {
+          "code": "412-01",
+          "name": "Operasi-operasi yang telah melewati tinjauan hak asasi manusia atau penilaian dampak"
+          },
+          {
+          "code": "411-01",
+          "name": "Insiden pelanggaran yang melibatkan hak-hak masyarakat adat"
+          },
+          {
+          "code": "410-01",
+          "name": "Petugas keamanan yang dilatih mengenai kebijakan atau \r\nprosedur hak asasi manusia"
+          },
+          {
+          "code": "409-01",
+          "name": "Operasi dan pemasok yang berisiko signifikan terhadap \r\ninsiden kerja paksa atau wajib kerja"
+          },
+          {
+          "code": "408-01",
+          "name": "Operasi dan pemasok yang berisiko signifikan terhadap insiden pekerja anak"
+          },
+          {
+          "code": "407-01",
+          "name": "Operasi dan pemasok di mana hak atas kebebasan berserikat dan perundingan kolektif mungkin berisiko"
+          },
+          {
+          "code": "406-01",
+          "name": "Insiden diskriminasi dan tindakan perbaikan yang dilakukan"
+          },
+          {
+          "code": "405-02",
+          "name": "Rasio gaji pokok dan remunerasi perempuan dibandingkan \r\nlaki-laki"
+          },
+          {
+          "code": "405-01",
+          "name": "Keanekaragaman badan tata kelola dan karyawan"
+          },
+          {
+          "code": "404-03",
+          "name": "Persentase karyawan yang menerima tinjauan rutin terhadap \r\nkinerja dan pengembangan karier"
+          },
+          {
+          "code": "404-02",
+          "name": "Program untuk meningkatkan keterampilan karyawan dan program bantuan peralihan"
+          },
+          {
+          "code": "404-01",
+          "name": "Rata-rata jam pelatihan per tahun per karyawan"
+          },
+          {
+          "code": "403-10",
+          "name": "Penyakit akibat kerja"
+          },
+          {
+          "code": "403-09",
+          "name": "Kecelakaan kerja"
+          },
+          {
+          "code": "403-08a",
+          "name": "Pekerja yang tercakup dalam sistem manajemen keselamatan dan kesehatan kerja"
+          },
+          {
+          "code": "403-07",
+          "name": "Pencegahan dan mitigasi dampak dari keselamatan dan \r\nkesehatan kerja yang secara langsung terkait hubungan bisnis"
+          },
+          {
+          "code": "403-06",
+          "name": "Peningkatan kualitas kesehatan pekerja"
+          },
+          {
+          "code": "403-05",
+          "name": "Pelatihan bagi pekerja mengenai keselamatan dan \r\nkesehatan kerja"
+          },
+          {
+          "code": "403-04",
+          "name": "Partisipasi, konsultasi, dan komunikasi pekerja tentang \r\nkeselamatan dan kesehatan kerja"
+          },
+          {
+          "code": "403-03",
+          "name": "Layanan kesehatan kerja"
+          },
+          {
+          "code": "403-02",
+          "name": "Identifikasi bahaya, penilaian risiko, dan investigasi insiden"
+          },
+          {
+          "code": "403-01",
+          "name": "Sistem manajemen keselamatan dan kesehatan kerja"
+          },
+          {
+          "code": "402-01",
+          "name": "Periode pemberitahuan minimum terkait perubahan \r\noperasional"
+          },
+          {
+          "code": "401-03",
+          "name": "Cuti orangtua (parental leave)"
+          },
+          {
+          "code": "401-02",
+          "name": "Tunjangan yang diberikan kepada karyawan purnawaktu yang \r\ntidak diberikan kepada karyawan sementara atau paruh waktu"
+          },
+          {
+          "code": "401-01",
+          "name": "Perekrutan karyawan baru dan pergantian karyawan"
+          },
+          {
+          "code": "308-02",
+          "name": "Dampak lingkungan negatif dalam rantai pasokan dan tindakan yang telah diambil"
+          },
+          {
+          "code": "308-01",
+          "name": "Seleksi pemasok baru dengan menggunakan kriteria lingkungan"
+          },
+          {
+          "code": "307-01",
+          "name": "Ketidakpatuhan terhadap undang-undang dan peraturan tentang lingkungan hidup"
+          },
+          {
+          "code": "306-05",
+          "name": "Limbah yang dikirimkan ke pembuangan akhir"
+          },
+          {
+          "code": "306-04",
+          "name": "Limbah yang dialihkan dari pembuangan akhir"
+          },
+          {
+          "code": "306-03a",
+          "name": "Timbulan limbah"
+          },
+          {
+          "code": "306-02",
+          "name": "Pengelolaan dampak yang signifikan terkait limbah"
+          },
+          {
+          "code": "306-01",
+          "name": "Timbulan limbah dan dampak-dampak yang signifikan terkait limbah"
+          },
+          {
+          "code": "305-07a",
+          "name": "Nitrogen oksida (NOx), sulfur oksida (SOx), dan emisi udara \r\nsignifikan lainnya"
+          },
+          {
+          "code": "305-06a",
+          "name": "Emisi zat perusak ozon (ODS)"
+          },
+          {
+          "code": "305-05a",
+          "name": "Pengurangan emisi GRK"
+          },
+          {
+          "code": "305-04a",
+          "name": "Intensitas emisi GRK"
+          },
+          {
+          "code": "305-03",
+          "name": "Emisi GRK (Cakupan 3) tidak langsung lainnya"
+          },
+          {
+          "code": "305-02a",
+          "name": "Emisi energi GRK (Cakupan 2) tidak langsung"
+          },
+          {
+          "code": "305-01a",
+          "name": "Emisi GRK (Cakupan 1) langsung"
+          },
+          {
+          "code": "304-04",
+          "name": "Spesies Daftar Merah IUCN dan spesies daftar konservasi \r\nnasional dengan habitat dalam wilayah yang terkena efek operasi"
+          },
+          {
+          "code": "304-03",
+          "name": "Habitat yang dilindungi atau direstorasi"
+          },
+          {
+          "code": "304-02",
+          "name": "Dampak signifikan dari kegiatan, produk, dan jasa pada keanekaragaman hayati"
+          },
+          {
+          "code": "304-01",
+          "name": "Lokasi operasi yang dimiliki, disewa, dikelola, atau berdekatan dengan, kawasan lindung dan kawasan dengan nilai keanekaragaman hayati tinggi di luar kawasan lindung"
+          },
+          {
+          "code": "303-05a",
+          "name": "Konsumsi air"
+          },
+          {
+          "code": "303-04a",
+          "name": "Pembuangan air"
+          },
+          {
+          "code": "303-03a",
+          "name": "Pengambilan air"
+          },
+          {
+          "code": "303-02",
+          "name": "Manajemen dampak yang berkaitan dengan pembuangan air"
+          },
+          {
+          "code": "303-01",
+          "name": "Interaksi dengan air sebagai sumber daya bersama"
+          },
+          {
+          "code": "302-05a",
+          "name": "Pengurangan pada energi yang dibutuhkan untuk produk dan jasa"
+          },
+          {
+          "code": "302-04a",
+          "name": "Pengurangan konsumsi energi"
+          },
+          {
+          "code": "302-03a",
+          "name": "Intensitas energi"
+          },
+          {
+          "code": "302-02a",
+          "name": "Konsumsi energi di luar organisasi"
+          },
+          {
+          "code": "302-01a",
+          "name": "Konsumsi energi dalam organisasi"
+          },
+          {
+          "code": "301-03",
+          "name": "Produk reclaimed dan material kemasannya"
+          },
+          {
+          "code": "301-02",
+          "name": "Material daur ulang yang digunakan"
+          },
+          {
+          "code": "301-01",
+          "name": "Material (Bahan baku/bahan dasar) yang digunakan berdasarkan berat atau volume"
+          },
+          {
+          "code": "207-04",
+          "name": "Laporan per negara"
+          },
+          {
+          "code": "207-03",
+          "name": "Keterlibatan pemangku kepentingan dan pengelolaan keprihatinan yang berkaitan dengan pajak"
+          },
+          {
+          "code": "207-02",
+          "name": "Tata kelola, pengendalian, dan manajemen risiko pajak"
+          },
+          {
+          "code": "207-01",
+          "name": "Pendekatan terhadap pajak"
+          },
+          {
+          "code": "206-01",
+          "name": "Langkah-langkah hukum untuk perilaku antipersaingan, praktik anti-trust dan monopoli"
+          },
+          {
+          "code": "205-03",
+          "name": "Insiden korupsi yang terbukti dan tindakan yang diambil"
+          },
+          {
+          "code": "205-02",
+          "name": "Komunikasi dan pelatihan tentang kebijakan dan prosedur anti-korupsi"
+          },
+          {
+          "code": "205-01",
+          "name": "Operasi-operasi yang dinilai memiliki risiko terkait korupsi"
+          },
+          {
+          "code": "204-01a",
+          "name": "Proporsi pengeluaran untuk pemasok lokal"
+          },
+          {
+          "code": "203-02",
+          "name": "Dampak ekonomi tidak langsung yang signifikan"
+          },
+          {
+          "code": "203-01",
+          "name": "Investasi infrastruktur dan dukungan layanan"
+          },
+          {
+          "code": "202-02",
+          "name": "Proporsi manajemen senior yang berasal dari masyarakat lokal"
+          },
+          {
+          "code": "202-01",
+          "name": "Rasio standar upah karyawan entry-level berdasarkan jenis kelamin terhadap upah minimum regional"
+          },
+          {
+          "code": "201-04",
+          "name": "Bantuan finansial yang diterima dari pemerintah"
+          },
+          {
+          "code": "201-03",
+          "name": "Nilai perkiraan kewajiban imbalan pasti dan rencana pensiun lainnya"
+          },
+          {
+          "code": "201-02",
+          "name": "Implikasi finansial serta risiko dan/atau peluang lain akibat dari perubahan iklim"
+          },
+          {
+          "code": "201-01",
+          "name": "Nilai ekonomi langsung yang dihasilkan dan didistribusikan"
+          },
+          {
+          "code": "103-03",
+          "name": "Evaluasi pendekatan manajemen"
+          },
+          {
+          "code": "103-02",
+          "name": "Pendekatan manajemen dan komponennya"
+          },
+          {
+          "code": "103-01",
+          "name": "Penjelasan topik material dan Batasannya"
+          },
+          {
+          "code": "102-56",
+          "name": "Assurance oleh pihak eksternal"
+          },
+          {
+          "code": "102-55",
+          "name": "Indeks isi GRI"
+          },
+          {
+          "code": "102-54",
+          "name": "Mengklaim pelaporan sesuai dengan Standar GRI"
+          },
+          {
+          "code": "102-53",
+          "name": "Titik kontak untuk pertanyaan mengenai laporan"
+          },
+          {
+          "code": "102-52",
+          "name": "Siklus pelaporan"
+          },
+          {
+          "code": "102-51",
+          "name": "Tanggal laporan terbaru"
+          },
+          {
+          "code": "102-50",
+          "name": "Periode pelaporan"
+          },
+          {
+          "code": "102-49",
+          "name": "Perubahan dalam pelaporan"
+          },
+          {
+          "code": "102-48",
+          "name": "Penyajian kembali informasi"
+          },
+          {
+          "code": "102-47",
+          "name": "Daftar topik material"
+          },
+          {
+          "code": "102-46",
+          "name": "Menetapkan isi laporan dan Batasan topik"
+          },
+          {
+          "code": "102-45",
+          "name": "Entitas yang termasuk dalam laporan keuangan dikonsolidasi"
+          },
+          {
+          "code": "102-44",
+          "name": "Topik utama dan hal-hal yang diajukan"
+          },
+          {
+          "code": "102-43",
+          "name": "Pendekatan untuk keterlibatan pemangku kepentingan"
+          },
+          {
+          "code": "102-42",
+          "name": "Mengidentifikasi dan memilih pemangku kepentingan"
+          },
+          {
+          "code": "102-41",
+          "name": "Perjanjian perundingan kolektif"
+          },
+          {
+          "code": "102-40",
+          "name": "Daftar kelompok pemangku kepentingan"
+          },
+          {
+          "code": "102-39",
+          "name": "Persentase kenaikan pada total rasio kompensasi total tahunan"
+          },
+          {
+          "code": "102-38",
+          "name": "Rasio kompensasi total tahunan"
+          },
+          {
+          "code": "102-37",
+          "name": "Keterlibatan para pemangku kepentingan dalam remunerasi"
+          },
+          {
+          "code": "102-36",
+          "name": "Proses untuk menentukan remunerasi"
+          },
+          {
+          "code": "102-35",
+          "name": "Kebijakan remunerasi"
+          },
+          {
+          "code": "102-34",
+          "name": "Sifat dan jumlah total hal-hal kritis"
+          },
+          {
+          "code": "102-33",
+          "name": "Mengomunikasikan hal-hal kritis"
+          },
+          {
+          "code": "102-32",
+          "name": "Peran badan tata kelola tertinggi dalam pelaporan keberlanjutan"
+          },
+          {
+          "code": "102-31",
+          "name": "Pengkajian topik ekonomi, lingkungan, dan sosial"
+          },
+          {
+          "code": "102-30",
+          "name": "Keefektifan proses manajemen risiko"
+          },
+          {
+          "code": "102-29",
+          "name": "Mengidentifikasi dan mengelola dampak ekonomi, lingkungan, \r\ndan sosial"
+          },
+          {
+          "code": "102-28",
+          "name": "Mengevaluasi kinerja badan tata kelola tertinggi"
+          },
+          {
+          "code": "102-27",
+          "name": "Pengetahuan kolektif badan tata kelola tertinggi"
+          },
+          {
+          "code": "102-26",
+          "name": "Peran badan tata kelola tertinggi dalam menetapkan tujuan, \r\nnilai-nilai, dan strategi"
+          },
+          {
+          "code": "102-25",
+          "name": "Konflik kepentingan"
+          },
+          {
+          "code": "102-24",
+          "name": "Menominasikan dan memilih badan tata kelola tertinggi"
+          },
+          {
+          "code": "102-23",
+          "name": "Ketua badan tata kelola tertinggi"
+          },
+          {
+          "code": "102-22",
+          "name": "Komposisi badan tata kelola tertinggi dan komitenya"
+          },
+          {
+          "code": "102-21",
+          "name": "Berkonsultasi dengan para pemangku kepentingan mengenai \r\ntopik-topik ekonomi, lingkungan, dan sosial"
+          },
+          {
+          "code": "102-20",
+          "name": "Tanggung jawab tingkat eksekutif untuk topik ekonomi, lingkungan, dan sosial"
+          },
+          {
+          "code": "102-19",
+          "name": "Mendelegasikan wewenang"
+          },
+          {
+          "code": "102-18",
+          "name": "Struktur tata kelola"
+          },
+          {
+          "code": "102-17",
+          "name": "Mekanisme untuk saran dan masalah etika"
+          },
+          {
+          "code": "102-16",
+          "name": "Nilai, prinsip, standar, dan norma perilaku"
+          },
+          {
+          "code": "102-15",
+          "name": "Dampak penting, risiko, dan peluang"
+          },
+          {
+          "code": "102-14",
+          "name": "Pernyataan dari pembuat keputusan senior"
+          },
+          {
+          "code": "102-13",
+          "name": "Keanggotaan asosiasi"
+          },
+          {
+          "code": "102-12",
+          "name": "Inisiatif Eksternal"
+          },
+          {
+          "code": "102-11",
+          "name": "Pendekatan atau Prinsip Pencegahan"
+          },
+          {
+          "code": "102-10",
+          "name": "Perubahan signifikan pada organisasi dan rantai pasokannya"
+          },
+          {
+          "code": "102-09",
+          "name": "Rantai pasokan"
+          },
+          {
+          "code": "102-08a",
+          "name": "Informasi mengenai karyawan dan pekerja lainnya"
+          },
+          {
+          "code": "102-07",
+          "name": "Skala organisasi"
+          },
+          {
+          "code": "102-06",
+          "name": "Pasar yang dilayani"
+          },
+          {
+          "code": "102-05",
+          "name": "Kepemilikan dan bentuk hukum"
+          },
+          {
+          "code": "102-04",
+          "name": "Lokasi operasi"
+          },
+          {
+          "code": "102-03",
+          "name": "Lokasi kantor pusat"
+          },
+          {
+          "code": "102-02",
+          "name": "Kegiatan, merek, produk, dan jasa"
+          },
+          {
+          "code": "102-01",
+          "name": "Nama organisasi"
+          }
+      ],
+      "topic":[
+        {
+          "code": "419",
+          "name": "Kepatuhan Sosial Ekonomi"
+          },
+          {
+          "code": "418",
+          "name": "Privasi Pelanggan"
+          },
+          {
+          "code": "417",
+          "name": "Pemasaran dan Pelabelan"
+          },
+          {
+          "code": "416",
+          "name": "Kesehatan dan Keselamatan Pelanggan"
+          },
+          {
+          "code": "415",
+          "name": "Kebijakan Publik"
+          },
+          {
+          "code": "414",
+          "name": "Penilaian Sosial Pemasok"
+          },
+          {
+          "code": "413",
+          "name": "Masyarakat Lokal"
+          },
+          {
+          "code": "412",
+          "name": "Penilaian Hak Asasi Manusia"
+          },
+          {
+          "code": "411",
+          "name": "Hak-Hak Masyarakat Adat"
+          },
+          {
+          "code": "410",
+          "name": "Praktik Keamanan"
+          },
+          {
+          "code": "409",
+          "name": "Kerja Paksa atau Wajib Kerja"
+          },
+          {
+          "code": "408",
+          "name": "Pekerja Anak"
+          },
+          {
+          "code": "407",
+          "name": "Kebebasan Berserikat dan Perundingan Kolektif"
+          },
+          {
+          "code": "406",
+          "name": "Non-Diskriminasi"
+          },
+          {
+          "code": "405",
+          "name": "Keanekaragaman dan Kesempatan Setara"
+          },
+          {
+          "code": "404",
+          "name": "Pelatihan dan Pendidikan"
+          },
+          {
+          "code": "403",
+          "name": "Keselamatan dan Kesehatan Kerja"
+          },
+          {
+          "code": "402",
+          "name": "Hubungan Tenaga Kerja/Manajemen"
+          },
+          {
+          "code": "401",
+          "name": "Kepegawaian"
+          },
+          {
+          "code": "308",
+          "name": "Penilaian Lingkungan Pemasok"
+          },
+          {
+          "code": "307",
+          "name": "Kepatuhan Lingkungan"
+          },
+          {
+          "code": "306",
+          "name": "Limbah"
+          },
+          {
+          "code": "305",
+          "name": "Emisi"
+          },
+          {
+          "code": "304",
+          "name": "Keanekaragaman Hayati"
+          },
+          {
+          "code": "303",
+          "name": "Air & Efluen"
+          },
+          {
+          "code": "302",
+          "name": "Energi"
+          },
+          {
+          "code": "301",
+          "name": "Material"
+          },
+          {
+          "code": "207",
+          "name": "Pajak"
+          },
+          {
+          "code": "206",
+          "name": "Perilaku Antipersaingan"
+          },
+          {
+          "code": "205",
+          "name": "Anti Korupsi"
+          },
+          {
+          "code": "204",
+          "name": "Praktik Pengadaan"
+          },
+          {
+          "code": "203",
+          "name": "Dampak Ekonomi Tidak Langsung"
+          },
+          {
+          "code": "202",
+          "name": "Keberadaan Pasar"
+          },
+          {
+          "code": "201",
+          "name": "Kinerja Ekonomi"
+          },
+          {
+          "code": "103",
+          "name": "Pendekatan Manajemen"
+          },
+          {
+          "code": "102",
+          "name": "Pengungkapan Umum"
+          },
+          {
+          "code": "101",
+          "name": "Landasan"
+          }
+      ],
+      "category":[
+        {
+          "code": "100",
+          "name": "General"
+        },
+        {
+          "code": "200",
+          "name": "Ekonomi"
+        },
+        {
+          "code": "300",
+          "name": "Lingkungan"
+        },
+        {
+          "code": "400",
+          "name": "Sosial"
+        }
+      ]
     }
   ]
 }
