@@ -115,20 +115,12 @@
             "name": "Nilai perkiraan kewajiban imbalan pasti dan rencana pensiun lainnya"
           },
           {
-            "code": "| 201-04",
-            "name": "Bantuan finansial yang diterima dari pemerintah"
-          },
-          {
             "code": "| 401-01",
             "name": "Perekrutan karyawan baru dan pergantian karyawan"
           },
           {
             "code": "| 401-02",
             "name": "Tunjangan yang diberikan kepada karyawan purnawaktu yang \n tidak diber..."
-          },
-          {
-            "code": "| 401-03",
-            "name": "Cuti orangtua (parental leave)"
           },
           {
             "code": "| 404-01",
@@ -293,6 +285,14 @@
             "name": "Evaluasi pendekatan manajemen"
           },
           {
+            "code": "| 203-01",
+            "name": "Investasi infrastruktur dan dukungan layanan"
+          },
+          {
+            "code": "| 203-02",
+            "name": "Dampak ekonomi tidak langsung yang signifikan"
+          },
+          {
             "code": "| 204-01a",
             "name": "Proporsi pengeluaran untuk pemasok lokal"
           },
@@ -301,24 +301,8 @@
             "name": "Proporsi pengeluaran untuk pemasok lokal"
           },
           {
-            "code": "| 205-01",
-            "name": "Operasi-operasi yang dinilai memiliki risiko terkait korupsi"
-          },
-          {
-            "code": "| 205-02",
-            "name": "Komunikasi dan pelatihan tentang kebijakan dan prosedur anti-korupsi"
-          },
-          {
-            "code": "| 205-03",
-            "name": "Insiden korupsi yang terbukti dan tindakan yang diambil"
-          },
-          {
             "code": "| 206-01",
             "name": "Langkah-langkah hukum untuk perilaku antipersaingan, praktik anti-trus..."
-          },
-          {
-            "code": "| 402-01",
-            "name": "Periode pemberitahuan minimum terkait perubahan \n operasional"
           },
           {
             "code": "| 412-01",
@@ -387,14 +371,6 @@
             "name": "Konsumsi energi dalam organisasi"
           },
           {
-            "code": "| 302-02a",
-            "name": "Konsumsi energi di luar organisasi"
-          },
-          {
-            "code": "| 302-02b",
-            "name": "Konsumsi energi di luar organisasi"
-          },
-          {
             "code": "| 302-03a",
             "name": "Intensitas energi"
           },
@@ -459,28 +435,12 @@
             "name": "Emisi GRK (Cakupan 1) langsung"
           },
           {
-            "code": "| 305-02a",
-            "name": "Emisi energi GRK (Cakupan 2) tidak langsung"
-          },
-          {
-            "code": "| 305-02b",
-            "name": "Emisi energi GRK (Cakupan 2) tidak langsung"
-          },
-          {
             "code": "| 305-04a",
             "name": "Intensitas emisi GRK"
           },
           {
             "code": "| 305-04b",
             "name": "Intensitas emisi GRK"
-          },
-          {
-            "code": "| 305-07a",
-            "name": "Nitrogen oksida (NOx), sulfur oksida (SOx), dan emisi udara \n signifik..."
-          },
-          {
-            "code": "| 305-07b",
-            "name": "Nitrogen oksida (NOx), sulfur oksida (SOx), dan emisi udara \n signifik..."
           },
           {
             "code": "| 306-01",
@@ -700,10 +660,6 @@
             "name": "Nilai perkiraan kewajiban imbalan pasti dan rencana pensiun lainnya"
           },
           {
-            "code": "| 201-04",
-            "name": "Bantuan finansial yang diterima dari pemerintah"
-          },
-          {
             "code": "| 204-01a",
             "name": "Proporsi pengeluaran untuk pemasok lokal"
           },
@@ -718,14 +674,6 @@
           {
             "code": "| 302-01b",
             "name": "Konsumsi energi dalam organisasi"
-          },
-          {
-            "code": "| 302-02a",
-            "name": "Konsumsi energi di luar organisasi"
-          },
-          {
-            "code": "| 302-02b",
-            "name": "Konsumsi energi di luar organisasi"
           },
           {
             "code": "| 302-03a",
@@ -760,28 +708,12 @@
             "name": "Emisi GRK (Cakupan 1) langsung"
           },
           {
-            "code": "| 305-02a",
-            "name": "Emisi energi GRK (Cakupan 2) tidak langsung"
-          },
-          {
-            "code": "| 305-02b",
-            "name": "Emisi energi GRK (Cakupan 2) tidak langsung"
-          },
-          {
             "code": "| 305-04a",
             "name": "Intensitas emisi GRK"
           },
           {
             "code": "| 305-04b",
             "name": "Intensitas emisi GRK"
-          },
-          {
-            "code": "| 305-07a",
-            "name": "Nitrogen oksida (NOx), sulfur oksida (SOx), dan emisi udara \n signifik..."
-          },
-          {
-            "code": "| 305-07b",
-            "name": "Nitrogen oksida (NOx), sulfur oksida (SOx), dan emisi udara \n signifik..."
           },
           {
             "code": "| 306-01",
@@ -802,10 +734,6 @@
           {
             "code": "| 401-01",
             "name": "Perekrutan karyawan baru dan pergantian karyawan"
-          },
-          {
-            "code": "| 401-03",
-            "name": "Cuti orangtua (parental leave)"
           },
           {
             "code": "| 403-01",
@@ -938,10 +866,6 @@
             "name": "Nilai perkiraan kewajiban imbalan pasti dan rencana pensiun lainnya"
           },
           {
-            "code": "| 201-04",
-            "name": "Bantuan finansial yang diterima dari pemerintah"
-          },
-          {
             "code": "| 204-01a",
             "name": "Proporsi pengeluaran untuk pemasok lokal"
           },
@@ -956,14 +880,6 @@
           {
             "code": "| 302-01b",
             "name": "Konsumsi energi dalam organisasi"
-          },
-          {
-            "code": "| 302-02a",
-            "name": "Konsumsi energi di luar organisasi"
-          },
-          {
-            "code": "| 302-02b",
-            "name": "Konsumsi energi di luar organisasi"
           },
           {
             "code": "| 302-03a",
@@ -1026,28 +942,12 @@
             "name": "Emisi GRK (Cakupan 1) langsung"
           },
           {
-            "code": "| 305-02a",
-            "name": "Emisi energi GRK (Cakupan 2) tidak langsung"
-          },
-          {
-            "code": "| 305-02b",
-            "name": "Emisi energi GRK (Cakupan 2) tidak langsung"
-          },
-          {
             "code": "| 305-04a",
             "name": "Intensitas emisi GRK"
           },
           {
             "code": "| 305-04b",
             "name": "Intensitas emisi GRK"
-          },
-          {
-            "code": "| 305-07a",
-            "name": "Nitrogen oksida (NOx), sulfur oksida (SOx), dan emisi udara \n signifik..."
-          },
-          {
-            "code": "| 305-07b",
-            "name": "Nitrogen oksida (NOx), sulfur oksida (SOx), dan emisi udara \n signifik..."
           },
           {
             "code": "| 306-01",
@@ -1072,10 +972,6 @@
           {
             "code": "| 401-01",
             "name": "Perekrutan karyawan baru dan pergantian karyawan"
-          },
-          {
-            "code": "| 401-03",
-            "name": "Cuti orangtua (parental leave)"
           },
           {
             "code": "| 403-01",
@@ -1394,8 +1290,12 @@
             "name": "Nilai perkiraan kewajiban imbalan pasti dan rencana pensiun lainnya"
           },
           {
-            "code": "| 201-04",
-            "name": "Bantuan finansial yang diterima dari pemerintah"
+            "code": "| 203-01",
+            "name": "Investasi infrastruktur dan dukungan layanan"
+          },
+          {
+            "code": "| 203-02",
+            "name": "Dampak ekonomi tidak langsung yang signifikan"
           },
           {
             "code": "| 204-01a",
@@ -1406,32 +1306,12 @@
             "name": "Proporsi pengeluaran untuk pemasok lokal"
           },
           {
-            "code": "| 205-01",
-            "name": "Operasi-operasi yang dinilai memiliki risiko terkait korupsi"
-          },
-          {
-            "code": "| 205-02",
-            "name": "Komunikasi dan pelatihan tentang kebijakan dan prosedur anti-korupsi"
-          },
-          {
-            "code": "| 205-03",
-            "name": "Insiden korupsi yang terbukti dan tindakan yang diambil"
-          },
-          {
             "code": "| 206-01",
             "name": "Langkah-langkah hukum untuk perilaku antipersaingan, praktik anti-trus..."
           },
           {
             "code": "| 401-02",
             "name": "Tunjangan yang diberikan kepada karyawan purnawaktu yang \n tidak diber..."
-          },
-          {
-            "code": "| 401-03",
-            "name": "Cuti orangtua (parental leave)"
-          },
-          {
-            "code": "| 402-01",
-            "name": "Periode pemberitahuan minimum terkait perubahan \n operasional"
           },
           {
             "code": "| 404-01",
