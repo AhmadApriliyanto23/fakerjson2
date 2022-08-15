@@ -301,10 +301,6 @@
             "name": "Proporsi pengeluaran untuk pemasok lokal"
           },
           {
-            "code": "| 206-01",
-            "name": "Langkah-langkah hukum untuk perilaku antipersaingan, praktik anti-trus..."
-          },
-          {
             "code": "| 412-01",
             "name": "Operasi-operasi yang telah melewati tinjauan hak asasi manusia atau pe..."
           },
@@ -325,18 +321,6 @@
           {
             "code": "| 204",
             "name": "Praktik Pengadaan"
-          },
-           {
-            "code": "| 205",
-            "name": "Anti Korupsi"
-          },
-           {
-            "code": "| 206",
-            "name": "Perilaku Antipersaingani"
-          },
-          {
-            "code": "| 402",
-            "name": "Hubungan Tenaga Kerja/Manajemen"
           },
           {
             "code": "| 412",
@@ -551,10 +535,6 @@
           {
             "code": "| 201-02",
             "name": "Implikasi finansial serta risiko dan/atau peluang lain akibat dari per..."
-          },
-          {
-            "code": "| 201-04",
-            "name": "Bantuan finansial yang diterima dari pemerintah"
           }
         ],
         "topic":[
@@ -1306,10 +1286,6 @@
             "name": "Proporsi pengeluaran untuk pemasok lokal"
           },
           {
-            "code": "| 206-01",
-            "name": "Langkah-langkah hukum untuk perilaku antipersaingan, praktik anti-trus..."
-          },
-          {
             "code": "| 401-02",
             "name": "Tunjangan yang diberikan kepada karyawan purnawaktu yang \n tidak diber..."
           },
@@ -1351,21 +1327,9 @@
             "code": "| 204",
             "name": "Praktik Pengadaan"
           },
-           {
-            "code": "| 205",
-            "name": "Anti Korupsi"
-          },
-           {
-            "code": "| 206",
-            "name": "Perilaku Antipersaingani"
-          },
           {
             "code": "| 401",
             "name": "Kepegawaian"
-          },
-          {
-            "code": "| 402",
-            "name": "Hubungan Tenaga Kerja/Manajemen"
           },
           {
             "code": "| 404",
@@ -1530,10 +1494,6 @@
             "name": "Intensitas emisi GRK"
             },
             {
-            "code": "| 305-02b",
-            "name": "Emisi energi GRK (Cakupan 2) tidak langsung"
-            },
-            {
             "code": "| 305-01b",
             "name": "Emisi GRK (Cakupan 1) langsung"
             },
@@ -1562,10 +1522,6 @@
             "name": "Intensitas energi"
             },
             {
-            "code": "| 302-02b",
-            "name": "Konsumsi energi di luar organisasi"
-            },
-            {
             "code": "| 302-01b",
             "name": "Konsumsi energi dalam organisasi"
             },
@@ -1586,54 +1542,6 @@
             "name": "Proporsi pengeluaran untuk pemasok lokal"
             },
             {
-            "code": "| 419-01",
-            "name": "Ketidakpatuhan terhadap undang-undang dan peraturan di bidang sosial dan ekonomi"
-            },
-            {
-            "code": "| 418-01",
-            "name": "Pengaduan substansial mengenai pelanggaran terhadap privasi pelanggan dan hilangnya data pelanggan"
-            },
-            {
-            "code": "| 417-03",
-            "name": "Insiden ketidakpatuhan terkait komunikasi pemasaran"
-            },
-            {
-            "code": "| 417-02",
-            "name": "Insiden ketidakpatuhan terkait informasi dan pelabelan \r\nproduk dan jasa"
-            },
-            {
-            "code": "| 417-01",
-            "name": "Persyaratan untuk pelabelan dan informasi produk dan jasa"
-            },
-            {
-            "code": "| 416-02",
-            "name": "Insiden ketidakpatuhan sehubungan dengan dampak kesehatan dan keselamatan dari produk dan jasa"
-            },
-            {
-            "code": "| 416-01",
-            "name": "Penilaian dampak kesehatan dan keselamatan dari berbagai kategori produk dan jasa"
-            },
-            {
-            "code": "| 415-01",
-            "name": "Kontribusi politik"
-            },
-            {
-            "code": "| 414-02",
-            "name": "Dampak sosial negatif dalam rantai pasokan dan tindakan yang \r\ntelah diambil"
-            },
-            {
-            "code": "| 414-01",
-            "name": "Seleksi pemasok baru dengan menggunakan kriteria sosial"
-            },
-            {
-            "code": "| 413-02",
-            "name": "Operasi yang secara aktual dan yang berpotensi memiliki \r\ndampak negatif signifikan terhadap masyarakat lokal"
-            },
-            {
-            "code": "| 413-01",
-            "name": "Operasi dengan keterlibatan masyarakat lokal, penilaian dampak, dan program pengembangan"
-            },
-            {
             "code": "| 412-03",
             "name": "Perjanjian dan kontrak investasi signifikan yang memasukkan klausul\u0002klausul hak asasi manusia atau yang telah melalui penyaringan hak asasi manusia"
             },
@@ -1644,38 +1552,6 @@
             {
             "code": "| 412-01",
             "name": "Operasi-operasi yang telah melewati tinjauan hak asasi manusia atau penilaian dampak"
-            },
-            {
-            "code": "| 411-01",
-            "name": "Insiden pelanggaran yang melibatkan hak-hak masyarakat adat"
-            },
-            {
-            "code": "| 410-01",
-            "name": "Petugas keamanan yang dilatih mengenai kebijakan atau \r\nprosedur hak asasi manusia"
-            },
-            {
-            "code": "| 409-01",
-            "name": "Operasi dan pemasok yang berisiko signifikan terhadap \r\ninsiden kerja paksa atau wajib kerja"
-            },
-            {
-            "code": "| 408-01",
-            "name": "Operasi dan pemasok yang berisiko signifikan terhadap insiden pekerja anak"
-            },
-            {
-            "code": "| 407-01",
-            "name": "Operasi dan pemasok di mana hak atas kebebasan berserikat dan perundingan kolektif mungkin berisiko"
-            },
-            {
-            "code": "| 406-01",
-            "name": "Insiden diskriminasi dan tindakan perbaikan yang dilakukan"
-            },
-            {
-            "code": "| 405-02",
-            "name": "Rasio gaji pokok dan remunerasi perempuan dibandingkan \r\nlaki-laki"
-            },
-            {
-            "code": "| 405-01",
-            "name": "Keanekaragaman badan tata kelola dan karyawan"
             },
             {
             "code": "| 404-03",
@@ -1730,10 +1606,6 @@
             "name": "Sistem manajemen keselamatan dan kesehatan kerja"
             },
             {
-            "code": "| 402-01",
-            "name": "Periode pemberitahuan minimum terkait perubahan \r\noperasional"
-            },
-            {
             "code": "| 401-03",
             "name": "Cuti orangtua (parental leave)"
             },
@@ -1744,18 +1616,6 @@
             {
             "code": "| 401-01",
             "name": "Perekrutan karyawan baru dan pergantian karyawan"
-            },
-            {
-            "code": "| 308-02",
-            "name": "Dampak lingkungan negatif dalam rantai pasokan dan tindakan yang telah diambil"
-            },
-            {
-            "code": "| 308-01",
-            "name": "Seleksi pemasok baru dengan menggunakan kriteria lingkungan"
-            },
-            {
-            "code": "| 307-01",
-            "name": "Ketidakpatuhan terhadap undang-undang dan peraturan tentang lingkungan hidup"
             },
             {
             "code": "| 306-05",
@@ -1798,28 +1658,8 @@
             "name": "Emisi GRK (Cakupan 3) tidak langsung lainnya"
             },
             {
-            "code": "| 305-02a",
-            "name": "Emisi energi GRK (Cakupan 2) tidak langsung"
-            },
-            {
             "code": "| 305-01a",
             "name": "Emisi GRK (Cakupan 1) langsung"
-            },
-            {
-            "code": "| 304-04",
-            "name": "Spesies Daftar Merah IUCN dan spesies daftar konservasi \r\nnasional dengan habitat dalam wilayah yang terkena efek operasi"
-            },
-            {
-            "code": "| 304-03",
-            "name": "Habitat yang dilindungi atau direstorasi"
-            },
-            {
-            "code": "| 304-02",
-            "name": "Dampak signifikan dari kegiatan, produk, dan jasa pada keanekaragaman hayati"
-            },
-            {
-            "code": "| 304-01",
-            "name": "Lokasi operasi yang dimiliki, disewa, dikelola, atau berdekatan dengan, kawasan lindung dan kawasan dengan nilai keanekaragaman hayati tinggi di luar kawasan lindung"
             },
             {
             "code": "| 303-05a",
@@ -1862,50 +1702,6 @@
             "name": "Konsumsi energi dalam organisasi"
             },
             {
-            "code": "| 301-03",
-            "name": "Produk reclaimed dan material kemasannya"
-            },
-            {
-            "code": "| 301-02",
-            "name": "Material daur ulang yang digunakan"
-            },
-            {
-            "code": "| 301-01",
-            "name": "Material (Bahan baku/bahan dasar) yang digunakan berdasarkan berat atau volume"
-            },
-            {
-            "code": "| 207-04",
-            "name": "Laporan per negara"
-            },
-            {
-            "code": "| 207-03",
-            "name": "Keterlibatan pemangku kepentingan dan pengelolaan keprihatinan yang berkaitan dengan pajak"
-            },
-            {
-            "code": "| 207-02",
-            "name": "Tata kelola, pengendalian, dan manajemen risiko pajak"
-            },
-            {
-            "code": "| 207-01",
-            "name": "Pendekatan terhadap pajak"
-            },
-            {
-            "code": "| 206-01",
-            "name": "Langkah-langkah hukum untuk perilaku antipersaingan, praktik anti-trust dan monopoli"
-            },
-            {
-            "code": "| 205-03",
-            "name": "Insiden korupsi yang terbukti dan tindakan yang diambil"
-            },
-            {
-            "code": "| 205-02",
-            "name": "Komunikasi dan pelatihan tentang kebijakan dan prosedur anti-korupsi"
-            },
-            {
-            "code": "| 205-01",
-            "name": "Operasi-operasi yang dinilai memiliki risiko terkait korupsi"
-            },
-            {
             "code": "| 204-01a",
             "name": "Proporsi pengeluaran untuk pemasok lokal"
             },
@@ -1916,18 +1712,6 @@
             {
             "code": "| 203-01",
             "name": "Investasi infrastruktur dan dukungan layanan"
-            },
-            {
-            "code": "| 202-02",
-            "name": "Proporsi manajemen senior yang berasal dari masyarakat lokal"
-            },
-            {
-            "code": "| 202-01",
-            "name": "Rasio standar upah karyawan entry-level berdasarkan jenis kelamin terhadap upah minimum regional"
-            },
-            {
-            "code": "| 201-04",
-            "name": "Bantuan finansial yang diterima dari pemerintah"
             },
             {
             "code": "| 201-03",
@@ -2179,65 +1963,9 @@
             }
         ],
         "topic":[
-          {
-            "code": "| 419",
-            "name": "Kepatuhan Sosial Ekonomi"
-            },
-            {
-            "code": "| 418",
-            "name": "Privasi Pelanggan"
-            },
-            {
-            "code": "| 417",
-            "name": "Pemasaran dan Pelabelan"
-            },
-            {
-            "code": "| 416",
-            "name": "Kesehatan dan Keselamatan Pelanggan"
-            },
-            {
-            "code": "| 415",
-            "name": "Kebijakan Publik"
-            },
-            {
-            "code": "| 414",
-            "name": "Penilaian Sosial Pemasok"
-            },
-            {
-            "code": "| 413",
-            "name": "Masyarakat Lokal"
-            },
             {
             "code": "| 412",
             "name": "Penilaian Hak Asasi Manusia"
-            },
-            {
-            "code": "| 411",
-            "name": "Hak-Hak Masyarakat Adat"
-            },
-            {
-            "code": "| 410",
-            "name": "Praktik Keamanan"
-            },
-            {
-            "code": "| 409",
-            "name": "Kerja Paksa atau Wajib Kerja"
-            },
-            {
-            "code": "| 408",
-            "name": "Pekerja Anak"
-            },
-            {
-            "code": "| 407",
-            "name": "Kebebasan Berserikat dan Perundingan Kolektif"
-            },
-            {
-            "code": "| 406",
-            "name": "Non-Diskriminasi"
-            },
-            {
-            "code": "| 405",
-            "name": "Keanekaragaman dan Kesempatan Setara"
             },
             {
             "code": "| 404",
@@ -2248,20 +1976,8 @@
             "name": "Keselamatan dan Kesehatan Kerja"
             },
             {
-            "code": "| 402",
-            "name": "Hubungan Tenaga Kerja/Manajemen"
-            },
-            {
             "code": "| 401",
             "name": "Kepegawaian"
-            },
-            {
-            "code": "| 308",
-            "name": "Penilaian Lingkungan Pemasok"
-            },
-            {
-            "code": "| 307",
-            "name": "Kepatuhan Lingkungan"
             },
             {
             "code": "| 306",
@@ -2272,10 +1988,6 @@
             "name": "Emisi"
             },
             {
-            "code": "| 304",
-            "name": "Keanekaragaman Hayati"
-            },
-            {
             "code": "| 303",
             "name": "Air & Efluen"
             },
@@ -2284,32 +1996,12 @@
             "name": "Energi"
             },
             {
-            "code": "| 301",
-            "name": "Material"
-            },
-            {
-            "code": "| 207",
-            "name": "Pajak"
-            },
-            {
-            "code": "| 206",
-            "name": "Perilaku Antipersaingan"
-            },
-            {
-            "code": "| 205",
-            "name": "Anti Korupsi"
-            },
-            {
             "code": "| 204",
             "name": "Praktik Pengadaan"
             },
             {
             "code": "| 203",
             "name": "Dampak Ekonomi Tidak Langsung"
-            },
-            {
-            "code": "| 202",
-            "name": "Keberadaan Pasar"
             },
             {
             "code": "| 201",
