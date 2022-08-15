@@ -867,7 +867,7 @@
         },
          {
           "code": "201",
-          "name": "Pengungkapan Umum"
+          "name": "Kinerja Ekonomi"
         },
          {
           "code": "204",
@@ -875,15 +875,27 @@
         },
         {
           "code": "302",
-          "name": "Praktik Pengadaan"
+          "name": "Energi"
         },
         {
           "code": "305",
-          "name": "Praktik Pengadaan"
+          "name": "Emisi"
         },
         {
           "code": "306",
-          "name": "Praktik Pengadaan"
+          "name": "Limbah"
+        },
+        {
+          "code": "401",
+          "name": "Kepegawaian"
+        },
+        {
+            "code": "403",
+            "name": "Keselamatan dan Kesehatan Kerja"
+        },
+        {
+            "code": "404",
+            "name": "Pelatihan dan Pendidikan"
         }
       ],
       "category":[
@@ -893,11 +905,15 @@
         },
         {
           "code": "200",
-          "name": "General"
+          "name": "Ekonomi"
         },
         {
           "code": "300",
-          "name": "General"
+          "name": "Lingkungan"
+        },
+         {
+          "code": "400",
+          "name": "Social"
         }
       ]
     },
@@ -1116,14 +1132,62 @@
       ],
       "topic":[
         {
+            "code": "102",
+            "name": "Pengungkapan Umum"
+        },
+        {
+            "code": "201",
+            "name": "Kinerja Ekonomi"
+        },
+        {
+            "code": "204",
+            "name": "Praktik Pengadaan"
+        },
+        {
+            "code": "302",
+            "name": "Energi"
+        },
+        {
+            "code": "303",
+            "name": "Air & Efluen"
+        },
+        {
+            "code": "305",
+            "name": "Emisi"
+        },
+        {
+            "code": "306",
+            "name": "Limbah"
+        },
+        {
+            "code": "401",
+            "name": "Kepegawaian"
+        },
+        {
             "code": "403",
-            "name": "Program untuk meningkatkan keterampilan karyawan dan program bantuan p..."
+            "name": "Keselamatan dan Kesehatan Kerja"
+        },
+        {
+            "code": "404",
+            "name": "Pelatihan dan Pendidikan"
         }
       ],
       "category":[
         {
+            "code": "100",
+            "name": "General"
+        },
+        {
+            "code": "200",
+            "name": "Ekonomi"
+        },
+        {
+            "code": "300",
+            "name": "Lingkungan"
+        },
+        {
             "code": "400",
-            "name": "Program untuk meningkatkan keterampilan karyawan dan program bantuan p..."
+            "name": "Social"
         }
       ]
     },
@@ -1191,13 +1255,13 @@
       "topic":[
         {
             "code": "102",
-            "name": "Program untuk meningkatkan keterampilan karyawan dan program bantuan p..."
+            "name": "Pengungkapan Umum"
         }
       ],
       "category":[
         {
             "code": "100",
-            "name": "Program untuk meningkatkan keterampilan karyawan dan program bantuan p..."
+            "name": "General"
         }
       ]
     }
