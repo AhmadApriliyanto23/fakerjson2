@@ -1113,6 +1113,18 @@
           "code": "404-02",
           "name": "Program untuk meningkatkan keterampilan karyawan dan program bantuan p..."
         }
+      ],
+      "topic":[
+        {
+            "code": "403",
+            "name": "Program untuk meningkatkan keterampilan karyawan dan program bantuan p..."
+        }
+      ],
+      "category":[
+        {
+            "code": "400",
+            "name": "Program untuk meningkatkan keterampilan karyawan dan program bantuan p..."
+        }
       ]
     },
     {
@@ -1174,6 +1186,18 @@
         {
           "code": "102-16",
           "name": "Nilai, prinsip, standar, dan norma perilaku"
+        }
+      ],
+      "topic":[
+        {
+            "code": "102",
+            "name": "Program untuk meningkatkan keterampilan karyawan dan program bantuan p..."
+        }
+      ],
+      "category":[
+        {
+            "code": "100",
+            "name": "Program untuk meningkatkan keterampilan karyawan dan program bantuan p..."
         }
       ]
     }
