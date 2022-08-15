@@ -1264,6 +1264,370 @@
             "name": "General"
         }
       ]
+    },
+    {
+      "id":11,
+      "name":"Sustainability + HC",
+      "data": [
+        {
+          "code": "102-08a",
+          "name": "Informasi mengenai karyawan dan pekerja lainnya"
+        },
+        {
+          "code": "102-08b",
+          "name": "Informasi mengenai karyawan dan pekerja lainnya"
+        },
+        {
+          "code": "102-09",
+          "name": "Rantai pasokan"
+        },
+        {
+          "code": "102-11",
+          "name": "Pendekatan atau Prinsip Pencegahan"
+        },
+        {
+          "code": "102-12",
+          "name": "Inisiatif Eksternal"
+        },
+        {
+          "code": "102-13",
+          "name": "Keanggotaan asosiasi"
+        },
+        {
+          "code": "102-14",
+          "name": "Pernyataan dari pembuat keputusan senior"
+        },
+        {
+          "code": "102-17",
+          "name": "Mekanisme untuk saran dan masalah etika"
+        },
+        {
+          "code": "102-18",
+          "name": "Struktur tata kelola"
+        },
+        {
+          "code": "102-19",
+          "name": "Mendelegasikan wewenang"
+        },
+        {
+          "code": "102-20",
+          "name": "Tanggung jawab tingkat eksekutif untuk topik ekonomi, lingkungan, dan ..."
+        },
+        {
+          "code": "102-22",
+          "name": "Komposisi badan tata kelola tertinggi dan komitenya"
+        },
+        {
+          "code": "102-23",
+          "name": "Ketua badan tata kelola tertinggi"
+        },
+        {
+          "code": "102-24",
+          "name": "Menominasikan dan memilih badan tata kelola tertinggi"
+        },
+        {
+          "code": "102-29",
+          "name": "Mengidentifikasi dan mengelola dampak ekonomi, lingkungan, \n dan sosia..."
+        },
+        {
+          "code": "102-31",
+          "name": "Pengkajian topik ekonomi, lingkungan, dan sosial"
+        },
+        {
+          "code": "102-32",
+          "name": "Peran badan tata kelola tertinggi dalam pelaporan keberlanjutan"
+        },
+        {
+          "code": "102-46",
+          "name": "Menetapkan isi laporan dan Batasan topik"
+        },
+        {
+          "code": "102-47",
+          "name": "Daftar topik material"
+        },
+        {
+          "code": "102-48",
+          "name": "Penyajian kembali informasi"
+        },
+        {
+          "code": "102-49",
+          "name": "Perubahan dalam pelaporan"
+        },
+        {
+          "code": "102-50",
+          "name": "Periode pelaporan"
+        },
+        {
+          "code": "102-51",
+          "name": "Tanggal laporan terbaru"
+        },
+        {
+          "code": "102-52",
+          "name": "Siklus pelaporan"
+        },
+        {
+          "code": "102-53",
+          "name": "Titik kontak untuk pertanyaan mengenai laporan"
+        },
+        {
+          "code": "102-54",
+          "name": "Mengklaim pelaporan sesuai dengan Standar GRI"
+        },
+        {
+          "code": "102-55",
+          "name": "Indeks isi GRI"
+        },
+        {
+          "code": "103-01",
+          "name": "Penjelasan topik material dan Batasannya"
+        },
+        {
+          "code": "103-02",
+          "name": "Pendekatan manajemen dan komponennya"
+        },
+        {
+          "code": "103-03",
+          "name": "Evaluasi pendekatan manajemen"
+        },
+        {
+          "code": "201-03",
+          "name": "Nilai perkiraan kewajiban imbalan pasti dan rencana pensiun lainnya"
+        },
+        {
+          "code": "201-04",
+          "name": "Bantuan finansial yang diterima dari pemerintah"
+        },
+        {
+          "code": "204-01a",
+          "name": "Proporsi pengeluaran untuk pemasok lokal"
+        },
+        {
+          "code": "204-01b",
+          "name": "Proporsi pengeluaran untuk pemasok lokal"
+        },
+        {
+          "code": "205-01",
+          "name": "Operasi-operasi yang dinilai memiliki risiko terkait korupsi"
+        },
+        {
+          "code": "205-02",
+          "name": "Komunikasi dan pelatihan tentang kebijakan dan prosedur anti-korupsi"
+        },
+        {
+          "code": "205-03",
+          "name": "Insiden korupsi yang terbukti dan tindakan yang diambil"
+        },
+        {
+          "code": "206-01",
+          "name": "Langkah-langkah hukum untuk perilaku antipersaingan, praktik anti-trus..."
+        },
+        {
+          "code": "401-02",
+          "name": "Tunjangan yang diberikan kepada karyawan purnawaktu yang \n tidak diber..."
+        },
+        {
+          "code": "401-03",
+          "name": "Cuti orangtua (parental leave)"
+        },
+        {
+          "code": "402-01",
+          "name": "Periode pemberitahuan minimum terkait perubahan \n operasional"
+        },
+        {
+          "code": "404-01",
+          "name": "Rata-rata jam pelatihan per tahun per karyawan"
+        },
+        {
+          "code": "404-02",
+          "name": "Program untuk meningkatkan keterampilan karyawan dan program bantuan p..."
+        },
+        {
+          "code": "404-03",
+          "name": "Persentase karyawan yang menerima tinjauan rutin terhadap \n kinerja da..."
+        },
+        {
+          "code": "412-01",
+          "name": "Operasi-operasi yang telah melewati tinjauan hak asasi manusia atau pe..."
+        },
+        {
+          "code": "412-02",
+          "name": "Pelatihan karyawan mengenai kebijakan atau prosedur hak asasi manusia"
+        }
+      ],
+      "topic":[
+        {
+          "code": "102",
+          "name": "Pengungkapan Umum"
+        },
+        {
+          "code": "201",
+          "name": "Kinerja Ekonomi"
+        },
+        {
+          "code": "103",
+          "name": "Pendekatan Manajemen"
+        },
+        {
+          "code": "204",
+          "name": "Praktik Pengadaan"
+        },
+         {
+          "code": "205",
+          "name": "Anti Korupsi"
+        },
+         {
+          "code": "206",
+          "name": "Perilaku Antipersaingani"
+        },
+        {
+          "code": "401",
+          "name": "Kepegawaian"
+        },
+        {
+          "code": "402",
+          "name": "Hubungan Tenaga Kerja/Manajemen"
+        },
+        {
+          "code": "404",
+          "name": "Pelatihan dan Pendidikan"
+        },
+        {
+          "code": "412",
+          "name": "Penilaian Hak Asasi Manusia"
+        }
+      ],
+      "category":[
+        {
+          "code": "100",
+          "name": "General"
+        },
+        {
+          "code": "200",
+          "name": "Ekonomi"
+        },
+        {
+          "code": "400",
+          "name": "Sosial"
+        }
+      ]
+    },
+    {
+      "id":12,
+      "name":"IR + IR Report",
+      "data": [
+        {
+          "code": "102-01",
+          "name": "Nama organisasi"
+        },
+        {
+          "code": "102-02",
+          "name": "Kegiatan, merek, produk, dan jasa"
+        },
+        {
+          "code": "102-03",
+          "name": "Lokasi kantor pusat"
+        },
+        {
+          "code": "102-04",
+          "name": "Lokasi operasi"
+        },
+        {
+          "code": "102-05",
+          "name": "Kepemilikan dan bentuk hukum"
+        },
+        {
+          "code": "102-06",
+          "name": "Pasar yang dilayani"
+        },
+        {
+          "code": "102-07",
+          "name": "Skala organisasi"
+        },
+        {
+          "code": "102-08a",
+          "name": "Informasi mengenai karyawan dan pekerja lainnya"
+        },
+        {
+          "code": "102-08b",
+          "name": "Informasi mengenai karyawan dan pekerja lainnya"
+        },
+        {
+          "code": "102-10",
+          "name": "Perubahan signifikan pada organisasi dan rantai pasokannya"
+        },
+        {
+          "code": "102-12",
+          "name": "Inisiatif Eksternal"
+        },
+        {
+          "code": "102-13",
+          "name": "Keanggotaan asosiasi"
+        },
+        {
+          "code": "102-15",
+          "name": "Dampak penting, risiko, dan peluang"
+        },
+        {
+          "code": "102-15",
+          "name": "Dampak penting, risiko, dan peluang"
+        },
+        {
+          "code": "102-16",
+          "name": "Nilai, prinsip, standar, dan norma perilaku"
+        },
+        {
+          "code": "102-26",
+          "name": "Peran badan tata kelola tertinggi dalam menetapkan tujuan, \n nilai-nil..."
+        },
+        {
+          "code": "102-27",
+          "name": "Pengetahuan kolektif badan tata kelola tertinggi"
+        },
+        {
+          "code": "102-28",
+          "name": "Mengevaluasi kinerja badan tata kelola tertinggi"
+        },
+        {
+          "code": "102-30",
+          "name": "Keefektifan proses manajemen risiko"
+        },
+        {
+          "code": "102-40",
+          "name": "Daftar kelompok pemangku kepentingan"
+        },
+        {
+          "code": "102-41",
+          "name": "Perjanjian perundingan kolektif"
+        },
+        {
+          "code": "102-42",
+          "name": "Mengidentifikasi dan memilih pemangku kepentingan"
+        },
+        {
+          "code": "102-43",
+          "name": "Pendekatan untuk keterlibatan pemangku kepentingan"
+        },
+        {
+          "code": "102-44",
+          "name": "Topik utama dan hal-hal yang diajukan"
+        },
+        {
+          "code": "102-45",
+          "name": "Entitas yang termasuk dalam laporan keuangan dikonsolidasi"
+        }
+      ],
+      "topic":[
+        {
+          "code": "102",
+          "name": "Pengungkapan Umum"
+        }
+      ],
+      "category":[
+        {
+          "code": "100",
+          "name": "General"
+        }
+      ]
     }
   ]
 }
