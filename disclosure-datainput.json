@@ -872,15 +872,7 @@
           "name": "Proporsi pengeluaran untuk pemasok lokal"
         },
         {
-          "code": "204-01b",
-          "name": "Proporsi pengeluaran untuk pemasok lokal"
-        },
-        {
           "code": "302-01a",
-          "name": "Konsumsi energi dalam organisasi"
-        },
-        {
-          "code": "302-01b",
           "name": "Konsumsi energi dalam organisasi"
         },
         {
@@ -901,10 +893,6 @@
         },
         {
           "code": "302-05a",
-          "name": "Pengurangan pada energi yang dibutuhkan untuk produk dan jasa"
-        },
-        {
-          "code": "302-05b",
           "name": "Pengurangan pada energi yang dibutuhkan untuk produk dan jasa"
         },
         {
@@ -974,10 +962,6 @@
         {
           "code": "401-01",
           "name": "Perekrutan karyawan baru dan pergantian karyawan"
-        },
-        {
-          "code": "401-03",
-          "name": "Cuti orangtua (parental leave)"
         },
         {
           "code": "403-01",
