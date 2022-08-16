@@ -83,38 +83,18 @@
         {
           "code": "102-45",
           "name": "Entitas yang termasuk dalam laporan keuangan dikonsolidasi"
-        },
-        {
-          "code": "404-01",
-          "name": "Rata-rata jam pelatihan per tahun per karyawan"
-        },
-        {
-          "code": "404-02",
-          "name": "Program untuk meningkatkan keterampilan karyawan dan program bantuan"
-        },
-        {
-          "code": "404-03",
-          "name": "Persentase karyawan yang menerima tinjauan rutin terhadap"
         }
       ],
       "topic":[
         {
           "code": "102",
           "name": "Pengungkapan Umum"
-        },
-        {
-          "code": "404",
-          "name": "Pelatihan dan Pendidikan"
         }
       ],
       "category":[
         {
           "code": "100",
           "name": "General"
-        },
-        {
-          "code": "400",
-          "name": "Social"
         }
       ]
     },
