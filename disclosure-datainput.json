@@ -680,7 +680,7 @@
           "name": "Pengurangan konsumsi energi"
         },
         {
-          "code": "302-05b",
+          "code": "302-05a",
           "name": "Pengurangan pada energi yang dibutuhkan untuk produk dan jasa"
         },
         {
@@ -1316,6 +1316,10 @@
         {
           "code": "103-03",
           "name": "Evaluasi pendekatan manajemen"
+        },
+        {
+          "code": "201-03",
+          "name": "Investasi infrastruktur dan dukungan layanan"
         },
         {
           "code": "203-01",
